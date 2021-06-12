@@ -1,0 +1,22 @@
+{
+  "name": "stillas",
+  "version": "1.0.0",
+  "description": "Scaffolds a Nodejs Project",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Malomo Damilare",
+    "email": "damilaremalomo@gmail.com"
+  },
+  "bin": {
+    "stillas": "bin/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "recursive-copy": "^2.0.11",
+    "yargs": "^17.0.1"
+  }
+}

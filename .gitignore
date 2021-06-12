@@ -1,0 +1,5 @@
+/node_modules
+.svn
+.vs
+.idea
+.vscode
